@@ -6,7 +6,7 @@ class Pokemon
     
   end
   
-  def self.save 
+  def 
     pokemon = Pokemon.new 
     pokemon
   end 
