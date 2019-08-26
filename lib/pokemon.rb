@@ -14,6 +14,7 @@ class Pokemon
   end
   
   def self.find(num, db)
+    pokemon = db.execute("SELECT * FROM pokemon")
     
   
   
