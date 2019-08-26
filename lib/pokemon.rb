@@ -6,4 +6,9 @@ class Pokemon
     @id = id 
     @name = name 
     @db = db 
+  end 
+  
+  
+  
+  
 end
