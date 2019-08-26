@@ -6,9 +6,9 @@ class Pokemon
     
   end
   
-  def 
-    pokemon = Pokemon.new 
-    pokemon
+  def self.save(id, name , type)
+    sql = <<-SQL
+    INSERT INTO pokemone ()
   end 
   
   
