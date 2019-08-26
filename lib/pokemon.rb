@@ -10,7 +10,7 @@ class Pokemon
     sql = <<-SQL
     INSERT INTO pokemone (name, type) VALUES (?, ?); 
     SQL
-    db.execute
+    db.execute(sql)
   end 
   
   
