@@ -3,10 +3,7 @@ class Pokemon
   
   
   def initialize(keywords)
-    @id = id 
-    @name = name 
-    @type = type 
-    @db = db 
+    
   end 
   
   
